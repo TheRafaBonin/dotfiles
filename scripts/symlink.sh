@@ -1,4 +1,15 @@
 # !/usr/bin/env bash
+rm -rf ~/.config/dunst
+rm -rf ~/.config/hypr
+rm -rf ~/.config/kitty
+rm -rf ~/.config/nvim
+rm -rf ~/.config/rofi
+rm -rf ~/.config/swappy
+rm -rf ~/.config/tmux
+rm -rf ~/.config/wal
+rm -rf ~/.config/waybar
+rm -rf ~/.config/wlogout
+
 ln -s ~/dotfiles/dunst ~/.config/dunst
 ln -s ~/dotfiles/hypr ~/.config/hypr
 ln -s ~/dotfiles/kitty ~/.config/kitty
