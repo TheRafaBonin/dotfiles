@@ -1,0 +1,2 @@
+# Ignores nvim generated files
+nvim/plugin/packer_compiled.lua
