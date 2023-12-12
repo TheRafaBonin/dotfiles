@@ -9,6 +9,7 @@ rm -rf ~/.config/tmux
 rm -rf ~/.config/wal
 rm -rf ~/.config/waybar
 rm -rf ~/.config/wlogout
+rm -rf ~/.config/wpaperd
 
 ln -s ~/dotfiles/dunst ~/.config/dunst
 ln -s ~/dotfiles/hypr ~/.config/hypr
@@ -20,3 +21,4 @@ ln -s ~/dotfiles/tmux ~/.config/tmux
 ln -s ~/dotfiles/wal ~/.config/wal
 ln -s ~/dotfiles/waybar ~/.config/waybar
 ln -s ~/dotfiles/wlogout ~/.config/wlogout
+ln -s ~/dotfiles/wpaperd ~/.config/wpaperd
