@@ -1,0 +1,12 @@
+dunst .config/dunst
+hypr .config/hypr
+kitty .config/kitty
+nvim .config/nvim
+rofi .config/rofi
+swappy .config/swappy
+tmux .config/tmux
+wal .config/wal
+waybar .config/waybar
+wlogout .config/wlogout
+wpaperd .config/wpaperd
+.bashrc .bashrc
